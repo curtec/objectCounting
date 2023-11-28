@@ -1,1 +1,1 @@
-# objectCounting
+# Object Counting with YOLOv8
